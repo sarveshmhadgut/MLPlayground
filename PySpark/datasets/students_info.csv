@@ -1,0 +1,17 @@
+student_id,name,age,gender,department,year,gpa,attendance_pct,city,hostel,scholarship,phone,email,parent_income,backlogs
+S001,Aarav,19,M,CSE,1,8.1,92,Mumbai,Yes,No,9876543210,aarav@uni.edu,650000,0
+S002,Diya,20,F,EEE,2,NULL,88,Chennai,No,Yes,9876501234,diya@uni.edu,480000,1
+S003,Rohan,NULL,M,CSE,3,7.2,NULL,Delhi,Yes,No,NULL,rohan@uni.edu,720000,0
+S004,Meera,21,F,ME,3,6.5,76,Bengaluru,NULL,No,9123456780,NULL,550000,2
+S005,Kabir,20,M,CIVIL,2,7.9,84,Pune,No,NULL,9988776655,kabir@uni.edu,NULL,0
+S006,Isha,19,F,CSE,1,9.0,95,NULL,Yes,Yes,9000011111,isha@uni.edu,400000,NULL
+S007,Aditya,22,M,EEE,4,5.8,62,Kolkata,No,No,NULL,aditya@uni.edu,300000,4
+S008,Ananya,21,F,CSE,3,NULL,90,Hyderabad,Yes,NULL,9012345678,ananya@uni.edu,500000,1
+S009,Vikram,23,M,ME,4,6.1,NULL,Mumbai,No,No,9898989898,NULL,850000,3
+S010,Sana,20,F,CIVIL,2,8.4,93,Delhi,Yes,Yes,9870001112,sana@uni.edu,NULL,0
+S011,Neil,19,M,CSE,1,7.0,80,Chennai,No,No,9871112223,neil@uni.edu,600000,NULL
+S012,Priya,NULL,F,NULL,NULL,8.7,91,NULL,NULL,NULL,NULL,priya@uni.edu,NULL,0
+S013,Arjun,21,M,CSE,3,7.6,85,Pune,NULL,No,9990001112,arjun@uni.edu,700000,1
+S014,Khushi,22,F,ME,4,6.9,70,NULL,No,No,9000099999,khushi@uni.edu,520000,2
+S015,Rahul,20,M,CIVIL,2,NULL,78,Hyderabad,Yes,No,9887766554,NULL,490000,NULL
+NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL
