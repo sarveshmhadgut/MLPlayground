@@ -222,3 +222,4 @@ logs/
 resnet50.index
 public_tests.py
 telco_model/
+PlantVillage/
